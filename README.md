@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adam!  
+# 👋 Hi, I'm Adem!  
 
 ### 🚀 Computer Engineering Student | Aspiring AI & ML Developer  
 
