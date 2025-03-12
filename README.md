@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Adem!  
 
-### 🚀 Computer Engineering Student | Aspiring AI & ML Developer  
+### 🚀 Computer Engineering Student | Aspiring Data Scientist & AI Engineer  
 
-I'm a **Computer Engineering student** with a passion for **Machine Learning, AI, and Software Development**. Currently, I'm learning **Python for Data Science and Java** while working on personal projects to enhance my skills.  
+I'm a **Computer Engineering student** with a passion for **Machine Learning, AI, and Data Science**.  
+Currently, I'm learning **Python for Data Science and Java** while working on personal projects to enhance my skills.  
 
 ---
 
@@ -24,8 +25,9 @@ I'm a **Computer Engineering student** with a passion for **Machine Learning, AI
 
 ## 📚 Currently Learning  
 
+- **Data Science & Analytics** 📊  
+- **Machine Learning & AI** 🤖  
 - **Deep Learning & Neural Networks** 🧠  
-- **Machine Learning & Data Science** 📊  
 
 ---
 
