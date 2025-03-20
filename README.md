@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adem!  
 
-### 🚀 Computer Engineering Student | Aspiring Data Scientist & AI Engineer  
+### Junior Data Scientist | Python & AI Enthusiast | Computer Engineering Student 🚀
 
 I'm a **Computer Engineering student** with a passion for **Machine Learning, AI, and Data Science**.  
 Currently, I'm learning **Python for Data Science and Java** while working on personal projects to enhance my skills.  
