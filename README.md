@@ -34,7 +34,6 @@ Currently, I'm learning **Python for Data Science and Java** while working on pe
 ## 📫 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/adem-guedri-4307b8326/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/AdemCE-eng)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:guedriadem@gmail.com)  
 
 ---
