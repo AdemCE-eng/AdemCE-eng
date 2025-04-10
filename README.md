@@ -31,10 +31,10 @@ Currently, I'm learning **Python for Data Science and Java** while working on pe
 
 ---
 
-## 📫 Let's Connect!  
+## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/adem-guedri-4307b8326/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:guedriadem@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adem-guedri-4307b8326/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:guedriadem@gmail.com) 
 
 ---
 
