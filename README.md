@@ -5,7 +5,7 @@
 ---
 
 ## 📖 About Me
-I’m Computer Engineering student with a passion for **Machine Learning**, **AI**, and **Data Science**. I love diving into real-world data to uncover insights and build intelligent solutions. My goal is to merge solid engineering foundations with cutting-edge AI techniques to drive impact.
+I’m a second-year Computer Engineering student with a passion for **Machine Learning**, **AI**, and **Data Science**. I love diving into real-world data to uncover insights and build intelligent solutions. My goal is to merge solid engineering foundations with cutting-edge AI techniques to drive impact.
 
 - 🎓 **Education**: B.Sc. in Computer Engineering (Second Year)  
 - 💡 **Interests**: Data Analysis, Predictive Modeling, Deep Learning, Automation
@@ -13,14 +13,11 @@ I’m Computer Engineering student with a passion for **Machine Learning**, **AI
 ---
 
 ## ⚙️ Tech Stack
-
-| Category             | Tools & Libraries                                                                               |
-|----------------------|------------------------------------------------------------------------------------------------|
-| **Languages**        | Python 🐍, Java ☕                                                                                |
-| **Data Analysis**    | Pandas, NumPy, Matplotlib, Seaborn                                                              |
-| **Machine Learning** | scikit-learn, (planning TensorFlow & Keras)                                                     |
-| **Web & Automation** | Requests, Beautiful Soup, Selenium (future)                                                     |
-| **Environments**     | Jupyter Notebook, VS Code, Git & GitHub                                                         |
+- **Languages:** Python 🐍, Java ☕  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning:** scikit-learn (planning TensorFlow & Keras)  
+- **Web & Automation:** Requests, Beautiful Soup, Selenium (future)  
+- **Environments:** Jupyter Notebook, VS Code, Git & GitHub
 
 ---
 
