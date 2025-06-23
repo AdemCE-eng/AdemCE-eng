@@ -1,46 +1,58 @@
-# 👋 Hi, I'm Adem!
+# 👋 Hi, I’m Adem Guedri
 
-### Data Scientist | ML, Deep Learning, Python | Turning Data into Actionable Insights 🚀
-
-I'm a **Computer Engineering student** passionate about **Machine Learning, AI, and Data Science**.  
-Currently, I'm mastering **Python for Data Science** and **Java**, actively applying these skills through personal projects.
+**Computer Engineering Student | Aspiring Data Scientist & AI Engineer** 🚀
 
 ---
 
-## 🔧 Technologies & Tools  
+## 📖 About Me
+I’m Computer Engineering student with a passion for **Machine Learning**, **AI**, and **Data Science**. I love diving into real-world data to uncover insights and build intelligent solutions. My goal is to merge solid engineering foundations with cutting-edge AI techniques to drive impact.
 
-- **Programming:** Python 🐍 | Java ☕  
-- **Data Science & AI:** Pandas | NumPy | Matplotlib | Seaborn  
-- **Web Scraping:** Requests | Beautiful Soup 🍲  
-- **Version Control:** Git & GitHub  
-
----
-
-## 📌 Projects  
-
-### 🔹 Sales Data Analysis  
-- 📊 **Analyzed sales transactions** from a coffee shop, identifying revenue trends, best-selling products, and peak sales hours.  
-  🔗 [View Project](https://github.com/AdemCE-eng/CoffeSales)  
-
-### 🔹 Web Scraping  
-- 📚 **Developed a Python tool** to scrape book titles and prices by category from "Books to Scrape," outputting results in TXT and JSON formats.  
-  🔗 [View Project](https://github.com/AdemCE-eng/Bookscraper)
+- 🎓 **Education**: B.Sc. in Computer Engineering (Second Year)  
+- 💡 **Interests**: Data Analysis, Predictive Modeling, Deep Learning, Automation
 
 ---
 
-## 🚧 Currently Learning  
+## ⚙️ Tech Stack
 
-- 📈 **Data Science & Analytics**  
-- 🤖 **Machine Learning & AI**  
-- 🧠 **Deep Learning & Neural Networks**  
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adem-guedri/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:guedriadem@gmail.com)
+| Category             | Tools & Libraries                                                                               |
+|----------------------|------------------------------------------------------------------------------------------------|
+| **Languages**        | Python 🐍, Java ☕                                                                                |
+| **Data Analysis**    | Pandas, NumPy, Matplotlib, Seaborn                                                              |
+| **Machine Learning** | scikit-learn, (planning TensorFlow & Keras)                                                     |
+| **Web & Automation** | Requests, Beautiful Soup, Selenium (future)                                                     |
+| **Environments**     | Jupyter Notebook, VS Code, Git & GitHub                                                         |
 
 ---
 
-💡 **"Code, Learn, and Build!"** 🚀
+## 🚀 Key Projects
+
+### 1. Coffee Shop Sales Analysis
+- **Objective:** Analyze transaction data to identify revenue trends, top performers, and peak hours.  
+- **Key Highlights:**  
+  - Revenue growth patterns and seasonal insights  
+  - Product-level best-sellers and customer behavior analysis  
+  - Interactive visualizations for clear storytelling  
+- 🔗 [Explore on GitHub](https://github.com/AdemCE-eng/CoffeSales)
+
+### 2. Category-Based Book Scraper
+- **Objective:** Build a resilient scraper to extract book titles, prices, and ratings from an online catalogue.  
+- **Key Highlights:**  
+  - Dynamic parsing of categories and pagination handling  
+  - Output options: TXT & JSON for easy downstream processing  
+  - Modular code for quick adaptation to other sites  
+- 🔗 [Explore on GitHub](https://github.com/AdemCE-eng/Bookscraper)
+
+---
+
+## 🚧 Currently Learning & Next Steps
+- **Deep Learning & Neural Networks** (TensorFlow, Keras)  
+- **Advanced Machine Learning** (Ensemble Methods, Model Deployment)  
+- **AI Project Roadmap**: Planning an AI-powered daily planner and a Telecom Churn Prediction model
+
+---
+
+## 📫 Let’s Connect
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adem-guedri/)  
+[![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:guedriadem@gmail.com)
+
+> “Code, Learn, Build—and make an impact.”
