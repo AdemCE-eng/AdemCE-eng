@@ -10,7 +10,7 @@ I am a dedicated second-year Computer Engineering undergraduate who combines for
 ---
 
 ## 🛠 Technical Skills  
-- **Programming Languages:** Python 🐍, Java ☕  
+- **Programming Languages:** Python 🐍, Java ☕, PHP 🐘  
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Machine Learning:** scikit-learn (next up: TensorFlow & Keras)  
 - **Web & Automation:** Requests, Beautiful Soup, Selenium (in progress)  
