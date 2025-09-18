@@ -1,12 +1,12 @@
 # 👋 Hello, I’m Adem Guedri
 
-**Computer Engineering & AI | Data Science & Machine Learning | Python & Laravel**
+**AI Developer | Network & Computer Engineer | Laravel & Python | Passionate about ML & Business Impact**
 
 ---
 
 ## 📚 About Me
 
-I am a Computer Engineering and Networks undergraduate passionate about AI, data science, and full-stack web development. I build intelligent systems and data-driven applications that solve real-world challenges in productivity, education, and business.
+I am an undergraduate in Network & Computer Engineering, passionate about AI, data science, and full-stack web development. I build intelligent systems and data-driven applications that solve real-world challenges in productivity, education, and business.
 
 My work bridges robust backend logic with intuitive user experiences — from AI-powered content summarizers using local LLMs to Laravel-based platforms that connect communities.
 
