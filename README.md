@@ -6,7 +6,7 @@
 
 ## 📚 About Me
 
-I am an undergraduate in Network & Computer Engineering, passionate about AI, data science, and full-stack web development. I build intelligent systems and data-driven applications that solve real-world challenges in productivity, education, and business.
+I am an undergraduate in Network & Computer Engineering, passionate about AI, Cybersecurity, and full-stack web development. I build intelligent systems and data-driven applications that solve real-world challenges in productivity, education, and business.
 
 My work bridges robust backend logic with intuitive user experiences from AI-powered content summarizers using local LLMs to Laravel-based platforms that connect communities.
 
@@ -19,17 +19,6 @@ My work bridges robust backend logic with intuitive user experiences from AI-pow
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
 
-**Data Analysis & Visualization:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?logo=python&logoColor=white&style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white&style=flat)
-
-**Machine Learning & AI:**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ai&logoColor=white&style=flat)
-
 **Web Development:**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)
@@ -37,10 +26,21 @@ My work bridges robust backend logic with intuitive user experiences from AI-pow
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
 
+**Machine Learning & AI:**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ai&logoColor=white&style=flat)
+
 **Automation & Scraping:**  
 ![Requests](https://img.shields.io/badge/Requests-000000?logo=python&logoColor=white&style=flat)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4EAA25?logo=python&logoColor=white&style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
+
+**Data Analysis & Visualization:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?logo=python&logoColor=white&style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white&style=flat)
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
