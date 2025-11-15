@@ -53,6 +53,10 @@ My work bridges robust backend logic with intuitive user experiences from AI-pow
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
 
 ---
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCE-eng&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
 
 ## 🚀 Featured Projects
 
@@ -108,6 +112,5 @@ Automated scraper for extracting book data from online catalogs.
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/adem-guedri/)
-[![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge\&logo=gmail)](mailto:guedriadem@gmail.com)
 
 > “Build valuable tech, share the process, and grow with every project.”
