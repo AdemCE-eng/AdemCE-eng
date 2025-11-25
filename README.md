@@ -81,26 +81,6 @@ AI-powered app that scrapes articles from the Google AI Blog, summarizes them wi
 
 ---
 
-### ☕ Coffee Shop Sales Analysis
-
-Data analysis project uncovering revenue patterns and customer behavior.
-
-* Processed transaction logs to identify peak hours and top-selling items.
-* Created visual dashboards for business insights.
-* [View on GitHub](https://github.com/AdemCE-eng/CoffeSales)
-
----
-
-### 📚 Category-Based Book Scraper
-
-Automated scraper for extracting book data from online catalogs.
-
-* Managed categories and pagination for complete coverage.
-* Exported results in TXT & JSON for flexible use.
-* [View on GitHub](https://github.com/AdemCE-eng/Bookscraper)
-
----
-
 ## 🎯 Current Focus
 
 * Expanding AI capabilities in real-world applications.
