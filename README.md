@@ -28,7 +28,7 @@ My work bridges robust backend logic with intuitive user experiences from AI-pow
 
 **Machine Learning & AI:**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ai&logoColor=white&style=flat)
 
 **Automation & Scraping:**  
