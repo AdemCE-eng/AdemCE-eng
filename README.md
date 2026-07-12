@@ -52,16 +52,10 @@ I care about building things that work end-to-end: offline LLM pipelines, RAG sy
 
 ## Tech Stack
 
-### AI & Agents
+### AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark"/>
-</p>
-
-### Machine Learning & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark"/>
 </p>
 
 ### Web & Backend
@@ -73,7 +67,7 @@ I care about building things that work end-to-end: offline LLM pipelines, RAG sy
 ### Data & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,selenium&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux,selenium&theme=dark"/>
 </p>
 
 ---
