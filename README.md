@@ -195,8 +195,10 @@ Completed IBM's 10-week AI Industry Immersion program, mentored by IBM experts. 
 
 <div align="center">
 
-&nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=AdemCE-eng&theme=radical&border_radius=10&hide_border=false" />
+<img
+  src="https://streak-stats.demolab.com?user=AdemCE-eng&theme=radical&hide_border=false&border_radius=10&card_width=495"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -240,7 +242,7 @@ Open To:
   - AI / ML Engineer roles
   - Agentic AI & Multi-Agent Systems opportunities
   - Software Engineering internships
-```
+````
 
 ---
 
@@ -275,3 +277,7 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a160e,50:c2410c,100:1a160e&height=120&section=footer" width="100%"/>
 
 </div>
+```
+
+
+instead of the old Heroku one.
