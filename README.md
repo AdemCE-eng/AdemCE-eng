@@ -191,30 +191,25 @@ Completed IBM's 10-week AI Industry Immersion program, mentored by IBM experts. 
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=AdemCE-eng&theme=radical&hide_border=false&border_radius=10&card_width=495"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdemCE-eng&theme=redical&hide_border=true&area=true" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AdemCE-eng&theme=redical&hide_border=true&area=true"
+  width="100%"
+  alt="Adem Contribution Graph"
+/>
 
 </div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Contribution Snake"
+/>
 
 </div>
 
@@ -242,7 +237,7 @@ Open To:
   - AI / ML Engineer roles
   - Agentic AI & Multi-Agent Systems opportunities
   - Software Engineering internships
-````
+```
 
 ---
 
@@ -277,7 +272,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a160e,50:c2410c,100:1a160e&height=120&section=footer" width="100%"/>
 
 </div>
-```
-
-
-instead of the old Heroku one.
