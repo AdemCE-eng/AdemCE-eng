@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a160e,50:c2410c,100:1a160e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=C2410C&center=true&vCenter=true&width=960&lines=Adem+Guedri;Computer+Engineering+%26+Networks;AI+Systems+Builder;Agentic+AI+%26+Multi-Agent+Systems;Backend+Engineering;Top+5%25+KAUST+AI+Program" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=C2410C&center=true&vCenter=true&width=960&lines=Adem+Guedri;Computer+Engineering+%26+Networks;AI+Systems;Backend+Engineering;Agentic+AI+%26+Multi-Agent+Systems;Top+5%25+KAUST+AI+Program" alt="Typing SVG" />
 
 <br/>
 
@@ -42,59 +42,70 @@
 
 ## About
 
-I'm a **Computer Engineering & Networks** student at Umm Al-Qura University focused on **AI systems, backend engineering, and intelligent product building**.
+I'm a **Computer Engineering & Networks** student at Umm Al-Qura University.
 
-I'm especially interested in **agentic AI**, **multi-agent systems**, **LLM-powered applications**, and the backend architecture required to make those systems reliable in practice. I enjoy building complete solutions around the model — orchestration, APIs, tools, persistence, databases, and product logic — rather than limiting my work to isolated experiments.
+Most of my work is in **AI systems and backend engineering**. I have worked with multi-agent systems, LLM applications, machine learning, APIs, relational databases, and full-stack products. I also explore humanoid robotics and imitation learning.
 
 I ranked in the **top 5% of 12,000+ participants** in the KAUST AI Program, completed IBM's 10-week **AI Industry Immersion**, and currently serve as **AI Team Lead** at the UQU Computer Club.
 
-**How I work:** I learn by building end-to-end systems, turning ideas into working products, and using each project to deepen my understanding of both AI and software engineering.
+I usually learn by building complete projects. I like understanding how the model, backend, database, APIs, and product logic fit together instead of working on only one layer.
 
-**Open to:** AI / ML Engineering · Agentic AI & Multi-Agent Systems · Backend Engineering · Software Engineering Internships
+**Open to:** AI / ML Engineering · Backend Engineering · Agentic AI & Multi-Agent Systems · Software Engineering Internships
 
 ---
 
 ## Tech Stack
 
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,php&theme=dark"/>
+</p>
+
 ### AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
 ### Backend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,laravel,php,nodejs,java,react,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs,react,tailwind&theme=dark"/>
 </p>
 
-### Data, Systems & Tools
+### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,cpp&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,vscode&theme=dark"/>
 </p>
 
-`SQLAlchemy` `Alembic` `REST APIs` `Ollama` `RAG` `LLM Tool Calling`
+<p>
+  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Alembic-Database_Migrations-6BA81E?style=flat-square"/>
+</p>
 
 ---
 
-## AI / Engineering Focus
+## What I Work With
 
-| Area | What I work with |
+| Area | Experience |
 |---|---|
 | **Agentic AI & Multi-Agent Systems** | Tool calling, orchestration, agent workflows, multi-agent coordination |
-| **Large Language Models** | Prompting, RAG concepts, local and cloud-based LLM workflows |
+| **LLM Applications** | RAG concepts, prompt design, local and cloud inference workflows |
 | **Backend Engineering** | APIs, persistence, relational databases, migrations, application logic |
-| **Machine Learning** | Model training, evaluation, tabular ML, inference integration |
-| **Full-Stack Engineering** | Laravel MVC, authentication, relational data, product development |
-| **Robotics** | Humanoid robotics, simulation, imitation-learning workflows |
+| **Machine Learning** | Tabular modeling, training, evaluation, inference integration |
+| **Full-Stack Development** | Laravel MVC, authentication, relational data, product development |
+| **Robotics** | Humanoid simulation, robot state and action pipelines, imitation learning |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>Nadeem — AI-Assisted Financial Companion</b></summary>
+<summary><b>Nadeem | AI-Assisted Financial Companion</b></summary>
 
 <br/>
 
@@ -107,16 +118,16 @@ I ranked in the **top 5% of 12,000+ participants** in the KAUST AI Program, comp
 | **Interface** | Arabic-first RTL |
 | **Repository** | [github.com/AdemCE-eng/Nadeem](https://github.com/AdemCE-eng/Nadeem) |
 
-**What it does:** Uses separate offer-opportunity and purchase-behavior models, then combines their probabilities with budget context and user behavior to produce explainable `wait`, `buy now`, or `not relevant` recommendations. Built as part of the Amad Hackathon.
+**What it does:** Uses separate offer-opportunity and purchase-behavior models, then combines their probabilities with budget context and user behavior to produce `wait`, `buy now`, or `not relevant` recommendations.
 
 </details>
 
 <details>
-<summary><b>Aafiyah — Multi-Agent Healthcare Platform</b></summary>
+<summary><b>Aafiyah | Multi-Agent Healthcare Platform</b></summary>
 
 <br/>
 
-> Built during IBM's AI Industry Immersion: turns unstructured clinical information into coordinated care workflows through specialized AI agents.
+> Built during IBM's AI Industry Immersion using specialized AI agents for healthcare workflows.
 
 | Attribute | Detail |
 |---|---|
@@ -125,34 +136,34 @@ I ranked in the **top 5% of 12,000+ participants** in the KAUST AI Program, comp
 | **Security** | Role-based access control |
 | **Repository** | [github.com/AdemCE-eng/Aafiyah](https://github.com/AdemCE-eng/Aafiyah) |
 
-**What it does:** Designed the LLM orchestration layer connecting clinical-note summarization, treatment-plan tracking, medication reminders, and patient Q&A agents into one coordinated pipeline. Presented to IBM evaluators and industry mentors.
+**What it does:** Connects clinical-note summarization, treatment-plan tracking, medication reminders, and patient Q&A agents through one orchestration layer.
 
 </details>
 
 <details>
-<summary><b>Content Inspiration — Local LLM Research Automation</b></summary>
+<summary><b>Content Inspiration | Local LLM Research Automation</b></summary>
 
 <br/>
 
-> Research automation tool that scrapes, downloads, and summarizes articles through a local LLM pipeline.
+> Tool for scraping, downloading, and summarizing articles with a local LLM.
 
 | Attribute | Detail |
 |---|---|
 | **Stack** | Python · Requests · Beautiful Soup · Ollama · Streamlit |
 | **Pipeline** | scrape → download → summarize → present |
-| **Inference** | Fully local |
+| **Inference** | Local |
 | **Repository** | [github.com/AdemCE-eng/Content_Inspiration](https://github.com/AdemCE-eng/Content_Inspiration) |
 
-**What it does:** Scrapes articles, generates concise summaries using a local model through Ollama, and presents the output in a Streamlit dashboard with filtering, search, and read tracking.
+**What it does:** Collects articles, summarizes them locally through Ollama, and presents them in a searchable Streamlit interface.
 
 </details>
 
 <details>
-<summary><b>Trend Web — Full-Stack Social Platform</b></summary>
+<summary><b>Trend Web | Full-Stack Social Platform</b></summary>
 
 <br/>
 
-> Twitter-style social platform engineered end-to-end with Laravel MVC.
+> Social platform built with Laravel MVC.
 
 | Attribute | Detail |
 |---|---|
@@ -161,25 +172,25 @@ I ranked in the **top 5% of 12,000+ participants** in the KAUST AI Program, comp
 | **Features** | Authentication · profiles · follows · posts · replies · likes · media |
 | **Repository** | [github.com/AdemCE-eng/Trend_Web](https://github.com/AdemCE-eng/Trend_Web) |
 
-**What it does:** Demonstrates my software-engineering foundation beyond AI through authentication, profile management, relational data, and a complete social interaction system.
+**What it does:** Implements authentication, profiles, social relationships, content interaction, and relational data management.
 
 </details>
 
 <details>
-<summary><b>GHRC 2026 — Humanoid Robotics</b></summary>
+<summary><b>GHRC 2026 | Humanoid Robotics</b></summary>
 
 <br/>
 
-> Exploring humanoid manipulation and imitation learning through the Global Humanoid Robot Challenge 2026 baseline.
+> Work based on the Global Humanoid Robot Challenge 2026 baseline.
 
 | Attribute | Detail |
 |---|---|
 | **Platform** | NVIDIA Isaac Sim · LeRobot |
-| **Learning** | ACT and imitation-learning workflows |
+| **Learning** | ACT · imitation learning |
 | **Observations** | 4 RGB cameras + robot joint states |
 | **Repository** | [github.com/AdemCE-eng/GHRC-2026-Humanoid-Robotics](https://github.com/AdemCE-eng/GHRC-2026-Humanoid-Robotics) |
 
-**What it involves:** Working with simulation, multi-camera observations, robot state/action pipelines, data collection, policy training, and deployment for humanoid manipulation tasks.
+**What it involves:** Simulation, multi-camera observations, robot state and action pipelines, data collection, policy training, and humanoid manipulation tasks.
 
 </details>
 
@@ -187,14 +198,14 @@ I ranked in the **top 5% of 12,000+ participants** in the KAUST AI Program, comp
 
 ## Experience
 
-### AI Developer Trainee — IBM AI Industry Immersion
+### AI Developer Trainee | IBM AI Industry Immersion
 
-`Apr 2026 – Jun 2026 · 10 weeks · Remote`
+`Apr 2026 to Jun 2026 · 10 weeks · Remote`
 
-Completed IBM's 10-week AI Industry Immersion program, mentored by IBM experts. Worked on a healthcare platform with four specialized AI agents for clinical-note summarization, treatment-plan tracking, medication reminders, and patient Q&A.
+Completed IBM's 10-week AI Industry Immersion program and worked on a healthcare platform using four specialized AI agents.
 
 **Scope of work:**
-- Applied Agentic AI, Multi-Agent Systems, RAG, Agile, and Design Thinking in a collaborative environment
+- Applied Agentic AI, Multi-Agent Systems, RAG, Agile, and Design Thinking
 - Designed and built the LLM orchestration layer connecting multiple AI agents
 - Presented the final solution to IBM evaluators and industry mentors
 
@@ -211,30 +222,20 @@ Completed IBM's 10-week AI Industry Immersion program, mentored by IBM experts. 
 | **UQU Computer Club** | AI Team Lead |
 | **KAUST AI Program** | Top 5% of 12,000+ participants |
 | **IBM AI Industry Immersion** | Completed 10-week AI program |
-| **Amad Hackathon** | Finalist — Nadeem / Pixel Falcons |
+| **Amad Hackathon** | Finalist · Nadeem / Pixel Falcons |
 
 </div>
 
 ---
 
-## Contribution Activity
+## GitHub Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AdemCE-eng&theme=github-dark&hide_border=true&area=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdemCE-eng&theme=github_dark"
   width="100%"
-  alt="Adem Contribution Graph"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="Contribution Snake"
+  alt="Adem GitHub Activity"
 />
 
 </div>
@@ -245,26 +246,20 @@ Completed IBM's 10-week AI Industry Immersion program, mentored by IBM experts. 
 
 ```yaml
 Building:
-  - AI-powered applications with strong backend foundations
+  - AI applications with backend infrastructure
   - APIs, databases, persistence, and application logic
-  - End-to-end systems that connect models to real product workflows
+  - End-to-end software projects
 
 Exploring:
   - Agentic AI and multi-agent systems
-  - LLM-powered applications and RAG concepts
+  - LLM applications and RAG
   - Robotics and embodied AI
   - Computer systems and networks
 
 Strengthening:
-  - PostgreSQL, SQLAlchemy, Alembic, and data architecture
-  - Production-oriented AI system design
+  - PostgreSQL, SQLAlchemy, and database design
+  - Backend architecture
   - Software engineering through real projects
-
-Open To:
-  - AI / ML Engineering opportunities
-  - Backend Engineering opportunities
-  - Agentic AI & Multi-Agent Systems work
-  - Software Engineering internships
 ```
 
 ---
@@ -294,8 +289,6 @@ Open To:
 <br/>
 
 <div align="center">
-
-*Building end-to-end AI systems with a strong software-engineering mindset.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a160e,50:c2410c,100:1a160e&height=120&section=footer" width="100%"/>
 
