@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a160e,50:c2410c,100:1a160e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=C2410C&center=true&vCenter=true&width=960&lines=Adem+Guedri;Computer+Engineering+%26+Networks;AI+Systems;Backend+Engineering;Agentic+AI+%26+Multi-Agent+Systems;Top+5%25+KAUST+AI+Program" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=C2410C&center=true&vCenter=true&width=960&lines=Adem+Guedri;AI+Systems;Agentic+AI+%26+Multi-Agent+Systems;Machine+Learning;Backend+for+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -42,15 +42,11 @@
 
 ## About
 
-I'm a **Computer Engineering & Networks** student at Umm Al-Qura University.
+I usually start with one question: **how does this actually work?**
 
-Most of my work is in **AI systems and backend engineering**. I have worked with multi-agent systems, LLM applications, machine learning, APIs, relational databases, and full-stack products. I also explore humanoid robotics and imitation learning.
+That question has taken me through AI agents, multi-agent systems, machine learning, backend systems, and robotics. Most of the projects here started as something I wanted to understand by building it.
 
-I ranked in the **top 5% of 12,000+ participants** in the KAUST AI Program, completed IBM's 10-week **AI Industry Immersion**, and currently serve as **AI Team Lead** at the UQU Computer Club.
-
-I usually learn by building complete projects. I like understanding how the model, backend, database, APIs, and product logic fit together instead of working on only one layer.
-
-**Open to:** AI / ML Engineering · Backend Engineering · Agentic AI & Multi-Agent Systems · Software Engineering Internships
+**AI Team Lead at UQU Computer Club · KAUST AI Program Top 5% · IBM AI Industry Immersion**
 
 ---
 
@@ -66,25 +62,18 @@ I usually learn by building complete projects. I like understanding how the mode
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
-### Backend & Web
+### Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs,react,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs,postgres,mysql,sqlite&theme=dark"/>
 </p>
 
-### Databases & Tools
+### Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,vscode&theme=dark"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Alembic-Database_Migrations-6BA81E?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark"/>
 </p>
 
 ---
@@ -94,11 +83,10 @@ I usually learn by building complete projects. I like understanding how the mode
 | Area | Experience |
 |---|---|
 | **Agentic AI & Multi-Agent Systems** | Tool calling, orchestration, agent workflows, multi-agent coordination |
-| **LLM Applications** | RAG concepts, prompt design, local and cloud inference workflows |
-| **Backend Engineering** | APIs, persistence, relational databases, migrations, application logic |
-| **Machine Learning** | Tabular modeling, training, evaluation, inference integration |
-| **Full-Stack Development** | Laravel MVC, authentication, relational data, product development |
-| **Robotics** | Humanoid simulation, robot state and action pipelines, imitation learning |
+| **LLM Applications** | Prompt design, RAG concepts, local and cloud inference workflows |
+| **Machine Learning** | Tabular modeling, training, evaluation, and inference integration |
+| **Backend for AI** | APIs, persistence, relational databases, migrations, and application logic |
+| **Robotics** | Humanoid simulation, robot state and action pipelines, and imitation learning |
 
 ---
 
@@ -228,14 +216,14 @@ Completed IBM's 10-week AI Industry Immersion program and worked on a healthcare
 
 ---
 
-## GitHub Activity
+## Contribution Activity
 
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdemCE-eng&theme=github_dark"
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
   width="100%"
-  alt="Adem GitHub Activity"
+  alt="Contribution Snake"
 />
 
 </div>
@@ -247,8 +235,8 @@ Completed IBM's 10-week AI Industry Immersion program and worked on a healthcare
 ```yaml
 Building:
   - AI applications with backend infrastructure
-  - APIs, databases, persistence, and application logic
-  - End-to-end software projects
+  - Agent workflows, APIs, databases, and persistence
+  - End-to-end AI projects
 
 Exploring:
   - Agentic AI and multi-agent systems
@@ -258,8 +246,8 @@ Exploring:
 
 Strengthening:
   - PostgreSQL, SQLAlchemy, and database design
-  - Backend architecture
-  - Software engineering through real projects
+  - Backend architecture for AI applications
+  - Machine learning systems
 ```
 
 ---
