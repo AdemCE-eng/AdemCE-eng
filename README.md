@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a160e,50:c2410c,100:1a160e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=C2410C&center=true&vCenter=true&width=960&lines=Adem+Guedri;Computer+Engineering+%26+Networks;AI+Systems+Builder;Agentic+AI+%26+Multi-Agent+Systems;Robotics+%26+Embodied+AI;Top+5%25+KAUST+AI+Program" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=C2410C&center=true&vCenter=true&width=960&lines=Adem+Guedri;Computer+Engineering+%26+Networks;AI+Systems+Builder;Agentic+AI+%26+Multi-Agent+Systems;Backend+Engineering;Top+5%25+KAUST+AI+Program" alt="Typing SVG" />
 
 <br/>
 
@@ -42,15 +42,15 @@
 
 ## About
 
-I'm a **Computer Engineering & Networks** student at Umm Al-Qura University building across **AI systems, backend engineering, and robotics**. I'm currently leading the **AI Team at the UQU Computer Club**, ranked in the **top 5% of 12,000+ participants** in the KAUST AI Program, and completed IBM's 10-week **AI Industry Immersion**.
+I'm a **Computer Engineering & Networks** student at Umm Al-Qura University focused on **AI systems, backend engineering, and intelligent product building**.
 
-My recent work ranges from **agentic and multi-agent AI systems** to **persistent AI assistants, machine-learning services, and humanoid robotics**. I enjoy building the full system around the model — orchestration, tools, APIs, databases, persistence, evaluation, and product logic.
+I'm especially interested in **agentic AI**, **multi-agent systems**, **LLM-powered applications**, and the backend architecture required to make those systems reliable in practice. I enjoy building complete solutions around the model — orchestration, APIs, tools, persistence, databases, and product logic — rather than limiting my work to isolated experiments.
 
-Right now, I'm building **Rook**, a personal AI assistant from the ground up to learn tool calling, agent architecture, persistent conversations, long-term memory, embeddings, vector search, and RAG. I'm also exploring **embodied AI and imitation learning** through the Global Humanoid Robot Challenge 2026.
+I ranked in the **top 5% of 12,000+ participants** in the KAUST AI Program, completed IBM's 10-week **AI Industry Immersion**, and currently serve as **AI Team Lead** at the UQU Computer Club.
 
-I care about building things that work end-to-end, not just proof-of-concept notebooks.
+**How I work:** I learn by building end-to-end systems, turning ideas into working products, and using each project to deepen my understanding of both AI and software engineering.
 
-**Open to:** AI/ML Engineering · Agentic AI & Multi-Agent Systems · Robotics / Embodied AI · Software Engineering Internships
+**Open to:** AI / ML Engineering · Agentic AI & Multi-Agent Systems · Backend Engineering · Software Engineering Internships
 
 ---
 
@@ -74,40 +74,24 @@ I care about building things that work end-to-end, not just proof-of-concept not
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,cpp&theme=dark"/>
 </p>
 
+`SQLAlchemy` `Alembic` `REST APIs` `Ollama` `RAG` `LLM Tool Calling`
+
 ---
 
-## AI / ML Focus
+## AI / Engineering Focus
 
-| Domain | Current Focus | Experience |
-|---|---|---|
-| **Agentic AI & Multi-Agent Systems** | Agent architecture, tool calling, orchestration | Rook, Aafiyah |
-| **Large Language Models** | RAG, memory, embeddings, local/cloud inference | Rook, Content Inspiration, Wathiq |
-| **Machine Learning** | Tabular modeling, evaluation, production inference | Nadeem |
-| **Computer Vision** | PyTorch-based vision pipelines | Coursework & projects |
-| **Robotics / Embodied AI** | Imitation learning, multimodal observations, humanoid manipulation | GHRC 2026 |
-| **Backend Engineering** | APIs, persistence, relational databases, migrations | FastAPI, Laravel, PostgreSQL, SQLAlchemy |
+| Area | What I work with |
+|---|---|
+| **Agentic AI & Multi-Agent Systems** | Tool calling, orchestration, agent workflows, multi-agent coordination |
+| **Large Language Models** | Prompting, RAG concepts, local and cloud-based LLM workflows |
+| **Backend Engineering** | APIs, persistence, relational databases, migrations, application logic |
+| **Machine Learning** | Model training, evaluation, tabular ML, inference integration |
+| **Full-Stack Engineering** | Laravel MVC, authentication, relational data, product development |
+| **Robotics** | Humanoid robotics, simulation, imitation-learning workflows |
 
 ---
 
 ## Featured Projects
-
-<details open>
-<summary><b>Rook — Personal AI Assistant</b></summary>
-
-<br/>
-
-> A personal AI assistant built from the ground up to understand the architecture behind modern agentic systems.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · OpenAI Responses API · PostgreSQL · SQLAlchemy · Alembic |
-| **Current Architecture** | Tool registry · structured function calling · conversation persistence |
-| **Building Next** | Long-term memory · embeddings · vector search · RAG |
-| **Repository** | Private while actively evolving |
-
-**What it does:** Rook is my ongoing systems project for learning how production-style AI assistants are built beyond the chat interface. The project currently supports conversational context, structured tool execution, persistent conversations, and database migrations, with long-term memory and retrieval as the next major layer.
-
-</details>
 
 <details>
 <summary><b>Nadeem — AI-Assisted Financial Companion</b></summary>
@@ -146,24 +130,6 @@ I care about building things that work end-to-end, not just proof-of-concept not
 </details>
 
 <details>
-<summary><b>GHRC 2026 — Humanoid Robotics</b></summary>
-
-<br/>
-
-> Exploring humanoid manipulation and imitation learning through the Global Humanoid Robot Challenge 2026 baseline.
-
-| Attribute | Detail |
-|---|---|
-| **Platform** | NVIDIA Isaac Sim · LeRobot |
-| **Learning** | ACT and imitation-learning workflows |
-| **Observations** | 4 RGB cameras + robot joint states |
-| **Repository** | [github.com/AdemCE-eng/GHRC-2026-Humanoid-Robotics](https://github.com/AdemCE-eng/GHRC-2026-Humanoid-Robotics) |
-
-**What it involves:** Working with simulation, multi-camera observations, robot state/action pipelines, data collection, policy training, and deployment for humanoid manipulation tasks.
-
-</details>
-
-<details>
 <summary><b>Content Inspiration — Local LLM Research Automation</b></summary>
 
 <br/>
@@ -196,6 +162,24 @@ I care about building things that work end-to-end, not just proof-of-concept not
 | **Repository** | [github.com/AdemCE-eng/Trend_Web](https://github.com/AdemCE-eng/Trend_Web) |
 
 **What it does:** Demonstrates my software-engineering foundation beyond AI through authentication, profile management, relational data, and a complete social interaction system.
+
+</details>
+
+<details>
+<summary><b>GHRC 2026 — Humanoid Robotics</b></summary>
+
+<br/>
+
+> Exploring humanoid manipulation and imitation learning through the Global Humanoid Robot Challenge 2026 baseline.
+
+| Attribute | Detail |
+|---|---|
+| **Platform** | NVIDIA Isaac Sim · LeRobot |
+| **Learning** | ACT and imitation-learning workflows |
+| **Observations** | 4 RGB cameras + robot joint states |
+| **Repository** | [github.com/AdemCE-eng/GHRC-2026-Humanoid-Robotics](https://github.com/AdemCE-eng/GHRC-2026-Humanoid-Robotics) |
+
+**What it involves:** Working with simulation, multi-camera observations, robot state/action pipelines, data collection, policy training, and deployment for humanoid manipulation tasks.
 
 </details>
 
@@ -238,7 +222,7 @@ Completed IBM's 10-week AI Industry Immersion program, mentored by IBM experts. 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AdemCE-eng&theme=redical&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AdemCE-eng&theme=github-dark&hide_border=true&area=true"
   width="100%"
   alt="Adem Contribution Graph"
 />
@@ -261,25 +245,25 @@ Completed IBM's 10-week AI Industry Immersion program, mentored by IBM experts. 
 
 ```yaml
 Building:
-  - Rook: personal AI assistant architecture
-  - Persistent conversations, tools, and agent behavior
-  - Long-term memory, embeddings, vector search, and RAG
+  - AI-powered applications with strong backend foundations
+  - APIs, databases, persistence, and application logic
+  - End-to-end systems that connect models to real product workflows
 
 Exploring:
   - Agentic AI and multi-agent systems
-  - Robotics, embodied AI, and imitation learning
-  - Backend architecture for AI applications
+  - LLM-powered applications and RAG concepts
+  - Robotics and embodied AI
   - Computer systems and networks
 
-Learning:
-  - PostgreSQL, SQLAlchemy, and database architecture
-  - Production-oriented LLM system design
-  - Humanoid robotics workflows with Isaac Sim and LeRobot
+Strengthening:
+  - PostgreSQL, SQLAlchemy, Alembic, and data architecture
+  - Production-oriented AI system design
+  - Software engineering through real projects
 
 Open To:
   - AI / ML Engineering opportunities
+  - Backend Engineering opportunities
   - Agentic AI & Multi-Agent Systems work
-  - Robotics / Embodied AI opportunities
   - Software Engineering internships
 ```
 
@@ -311,7 +295,7 @@ Open To:
 
 <div align="center">
 
-*Building at the intersection of AI systems, backend engineering, and robotics.*
+*Building end-to-end AI systems with a strong software-engineering mindset.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a160e,50:c2410c,100:1a160e&height=120&section=footer" width="100%"/>
 
