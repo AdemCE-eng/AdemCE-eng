@@ -216,17 +216,6 @@ Completed IBM's 10-week AI Industry Immersion program and worked on a healthcare
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="Contribution Snake"
-/>
-
-</div>
 
 ---
 
@@ -250,27 +239,26 @@ Strengthening:
   - Machine learning systems
 ```
 
----
 
-## Connect
+---
 
 <div align="center">
 
-<a href="mailto:guedriadem@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-guedriadem@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/adem-guedri" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Adem_Guedri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/AdemCE-eng" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-AdemCE--eng-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://x.com/adem_guedri_" target="_blank">
-  <img src="https://img.shields.io/badge/X-adem__guedri__-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AdemCE-eng/AdemCE-eng/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AdemCE-eng/AdemCE-eng/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/AdemCE-eng/AdemCE-eng/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
