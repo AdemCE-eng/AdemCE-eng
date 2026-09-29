@@ -216,9 +216,6 @@ Completed IBM's 10-week AI Industry Immersion program and worked on a healthcare
 
 ---
 
-
----
-
 ## Current Focus
 
 ```yaml
