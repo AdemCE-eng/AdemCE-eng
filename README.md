@@ -1,274 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a160e,50:c2410c,100:1a160e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
+# Adem Guedri
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=C2410C&center=true&vCenter=true&width=960&lines=Adem+Guedri;AI+Developer;Agentic+AI+%26+Multi-Agent+Systems;IBM+AI+Lab+Trained;Top+5%25+KAUST+AI+Program" alt="Typing SVG" />
+**Computer Engineering & Networks student · AI systems builder · Backend engineer**
 
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Computer_%26_Network_Engineering-Umm_Al--Qura_University-C2410C?style=flat-square&logo=graduation-cap&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Top_5%25-KAUST_AI_Program-31543D?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Saudi_Arabia-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
-</p>
-
-<p>
-  <a href="https://www.ademguedri.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-C2410C?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/adem-guedri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:guedriadem@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/AdemCE-eng" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-ademguedri.com-111827?style=flat-square)](https://www.ademguedri.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adem_Guedri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adem-guedri)
+[![X](https://img.shields.io/badge/X-@adem__guedri__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/adem_guedri_)
+[![Email](https://img.shields.io/badge/Email-guedriadem%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guedriadem@gmail.com)
 
 </div>
 
-<br/>
+---
+
+## About me
+
+I'm a **Computer Engineering & Networks student at Umm Al-Qura University** interested in building intelligent systems that connect **AI, backend engineering, data, and robotics**.
+
+My recent work has focused on **LLM agents, multi-agent systems, machine learning, persistent AI memory, and applied robotics**. I prefer building complete systems — APIs, databases, model pipelines, tooling, and product logic — rather than stopping at isolated notebooks or demos.
+
+- **AI Team Lead** at the UQU Computer Club
+- **Top 5%** in the KAUST AI Program
+- Completed IBM's **10-week AI Industry Immersion**, working on a multi-agent healthcare platform
+- Currently building **Rook**, a personal AI assistant with tool calling, persistence, and long-term memory
+- Exploring **humanoid robotics and imitation learning** through the Global Humanoid Robot Challenge 2026
 
 ---
 
-## About
+## What I'm working on
 
-I'm a **Computer Engineering** student at Umm Al-Qura University focused on **Agentic AI** and **Multi-Agent Systems**, ranked in the **top 5% of 12,000+ participants** in the KAUST AI Program and trained inside **IBM's AI Lab**.
+### ♜ Rook — Personal AI Assistant
+A personal AI system I'm building from the ground up to understand the engineering behind modern assistants instead of treating them as a black box.
 
-My work spans the full lifecycle of applied AI from designing multi-agent pipelines and LLM orchestration layers to shipping full-stack platforms with Laravel and computer vision applications with PyTorch. At IBM's AI Lab I designed a healthcare platform powered by four specialized AI agents and built the LLM orchestration layer that unites them into a single pipeline.
+**Current stack:** Python · OpenAI Responses API · PostgreSQL · SQLAlchemy · Alembic
 
-I care about building things that work end-to-end: offline LLM pipelines, RAG systems, and production-style AI workflows, not just proof-of-concept notebooks.
+**Built so far:** conversational context · structured tool calling · tool registry · persistent conversations · database migrations
 
-**Open to:** AI/ML Engineer Roles · Agentic AI & Multi-Agent Systems Roles · Software Engineering Internships
+**Next:** long-term memory · embeddings · vector search · RAG · richer agent behavior
+
+> Repository is currently private while the architecture is still evolving.
+
+### Nadeem — AI-Assisted Financial Companion
+Arabic-first financial companion built for the Amad Hackathon with budgeting, family saving, gamification, and ML-assisted merchant recommendations.
+
+**Stack:** React · Node.js · Express · Python · FastAPI · Firebase · scikit-learn · CatBoost
+
+**ML:** separate offer-opportunity and purchase-behavior models coordinated into explainable `wait`, `buy now`, or `not relevant` guidance.
+
+[View repository →](https://github.com/AdemCE-eng/Nadeem)
+
+### Aafiyah — Multi-Agent Healthcare Platform
+Built during IBM's AI Industry Immersion. Aafiyah coordinates specialized AI agents around clinical-note summarization, treatment-plan tracking, medication reminders, and patient Q&A.
+
+**Focus:** multi-agent orchestration · healthcare workflows · role-based system design
+
+[View repository →](https://github.com/AdemCE-eng/Aafiyah)
+
+### GHRC 2026 — Humanoid Robotics
+Working with the Global Humanoid Robot Challenge 2026 baseline around humanoid manipulation, simulation, multi-camera perception, and imitation-learning policies.
+
+**Tools & concepts:** NVIDIA Isaac Sim · LeRobot · ACT · imitation learning · 4-camera observations · robot joint state/action pipelines
+
+[View repository →](https://github.com/AdemCE-eng/GHRC-2026-Humanoid-Robotics)
 
 ---
 
-## Tech Stack
+## Engineering stack
 
-### AI & Machine Learning
+**Languages**  
+`Python` · `C++` · `PHP` · `Java` · `SQL`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark"/>
-</p>
+**AI / ML**  
+`PyTorch` · `scikit-learn` · `LLM APIs` · `RAG` · `Agentic AI` · `Multi-Agent Systems` · `Ollama`
 
-### Web & Backend
+**Backend & Data**  
+`FastAPI` · `Laravel` · `PostgreSQL` · `MySQL` · `SQLite` · `SQLAlchemy` · `Alembic`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,tailwind&theme=dark"/>
-</p>
-
-### Data & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux,selenium&theme=dark"/>
-</p>
+**Tools**  
+`Git` · `GitHub` · `Linux` · `Docker` · `VS Code`
 
 ---
 
-## AI / ML Expertise
+## Selected projects
 
-| Domain | Proficiency | Details |
+| Project | What it demonstrates | Repository |
 |---|---|---|
-| **Agentic AI & Multi-Agent Systems** | Advanced | Multi-agent orchestration, LLM pipeline design |
-| **Large Language Models** | Advanced | Prompt engineering, RAG pipelines, local/offline inference |
-| **Computer Vision** | Intermediate | PyTorch-based vision applications |
-| **Deep Learning** | Intermediate | Neural networks, model training and evaluation |
-| **Web Scraping & Automation** | Advanced | BeautifulSoup, Selenium, OCR pipelines |
-| **Full-Stack Engineering** | Advanced | Laravel MVC, PHP, relational databases |
+| **Rook** | AI assistant architecture, tool calling, persistence, memory | Private |
+| **Nadeem** | Applied ML, FastAPI, full-stack product engineering | [GitHub](https://github.com/AdemCE-eng/Nadeem) |
+| **Aafiyah** | Multi-agent AI orchestration for healthcare | [GitHub](https://github.com/AdemCE-eng/Aafiyah) |
+| **GHRC 2026** | Humanoid robotics, simulation, imitation learning | [GitHub](https://github.com/AdemCE-eng/GHRC-2026-Humanoid-Robotics) |
+| **Content Inspiration** | Local LLM pipeline, scraping, Streamlit | [GitHub](https://github.com/AdemCE-eng/Content_Inspiration) |
+| **Trend Web** | Laravel MVC, authentication, social platform backend | [GitHub](https://github.com/AdemCE-eng/Trend_Web) |
 
 ---
 
-## Featured Projects
+## Current direction
 
-<details>
-<summary><b>Aafiyah — Multi-Agent Healthcare Platform</b></summary>
+I'm especially interested in problems at the intersection of:
 
-<br/>
+- **AI agents and persistent memory**
+- **LLM systems and backend architecture**
+- **Machine learning in real products**
+- **Robotics and embodied AI**
+- **Computer systems and networks**
 
-> Built at the IBM AI Lab: turns unstructured doctor notes into structured care plans and medication schedules through four specialized AI agents working as one coordinated system.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Node.js · Express · Gemini API · JWT |
-| **Agents** | 4 specialized AI agents |
-| **Security** | Role-based access control |
-| **Repository** | [github.com/AdemCE-eng/Aafiyah](https://github.com/AdemCE-eng/Aafiyah) |
-
-**What it does:** Designed the LLM orchestration layer connecting clinical-note summarization, treatment-plan tracking, medication reminders, and patient Q&A agents into a single production-style pipeline. Presented to IBM evaluators and industry mentors.
-
-</details>
-
-<details>
-<summary><b>Wathiq — AI Legal Document Review Platform</b></summary>
-
-<br/>
-
-> AI-powered legal document review platform that analyzes and improves contracts using OCR and a fully local LLM.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · OCR · Ollama (local LLM) |
-| **Languages** | Arabic and English support |
-| **Repository** | [github.com/qo43/thka-q9a](https://github.com/qo43/thka-q9a) |
-
-**What it does:** Extracts text from PDFs and images via OCR, identifies weak or missing legal clauses, and generates drafting suggestions using a local AI model — no external API cost, no data leaving the machine.
-
-</details>
-
-<details>
-<summary><b>Content Inspiration — Local LLM Research Automation</b></summary>
-
-<br/>
-
-> Research automation tool that scrapes, downloads, and summarizes articles through a 4-stage local LLM pipeline — fully offline inference at zero API cost.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · Requests · Beautiful Soup · Ollama · Streamlit |
-| **Pipeline** | 4-stage: scrape → download → summarize → present |
-| **Cost** | Zero API cost — fully offline |
-| **Repository** | [github.com/AdemCE-eng/Content_Inspiration](https://github.com/AdemCE-eng/Content_Inspiration) |
-
-**What it does:** Scrapes articles from the Google AI Blog with rate-limiting and retries, generates concise summaries with a local Mistral model via Ollama, and presents everything in an interactive Streamlit dashboard with filtering, search, and read tracking.
-
-</details>
-
-<details>
-<summary><b>Trend Web — Full-Stack Social Platform</b></summary>
-
-<br/>
-
-> Complete Twitter-style platform with tweets, replies, retweets, likes, and follows, engineered end-to-end on Laravel MVC.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Laravel · PHP · MySQL · Tailwind CSS |
-| **Architecture** | MVC, built with Laravel |
-| **Features** | Follow network · media gallery · avatar upload |
-| **Repository** | [github.com/AdemCE-eng/Trend_Web](https://github.com/AdemCE-eng/Trend_Web) |
-
-**What it does:** Full social platform proving full-stack range beyond AI work — authentication, profile management, and a complete content-interaction system built from scratch.
-
-</details>
+I use projects as a way to learn the underlying engineering deeply, document what I discover, and turn ideas into working systems.
 
 ---
-
-## Experience
-
-### AI Developer Trainee — IBM AI Lab
-
-`Apr 2026 – Jun 2026 · 3 mos · Remote`
-
-Completed IBM's 10-week AI Industry Immersion program, mentored by IBM experts. Designed a healthcare platform with 4 specialized AI agents for clinical-note summarization, treatment-plan tracking, medication reminders, and patient Q&A, and designed the LLM orchestration layer connecting them into a unified production pipeline.
-
-**Scope of work:**
-- Applied Agentic AI, Multi-Agent Systems, RAG, Agile, and Design Thinking in a collaborative team environment
-- Designed and built the LLM orchestration layer unifying four AI agents
-- Presented the final solution to IBM evaluators and industry mentors
-
-`Agentic AI` `Multi-Agent Systems` `RAG` `LLM Orchestration` `Agile` `Design Thinking`
-
----
-
-## Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| KAUST AI Program | Top 5% of 12,000+ participants |
-| IBM AI Lab | AI Developer Trainee — 10-week Industry Immersion |
-| UQU Computer Club | Recognition for contributions — Project Management Committee |
+### Let's connect
 
-</div>
+[Portfolio](https://www.ademguedri.com/) · [LinkedIn](https://www.linkedin.com/in/adem-guedri) · [X](https://x.com/adem_guedri_) · [Email](mailto:guedriadem@gmail.com)
 
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AdemCE-eng&theme=redical&hide_border=true&area=true"
-  width="100%"
-  alt="Adem Contribution Graph"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="Contribution Snake"
-/>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Agentic AI system design at production scale
-  - Advanced RAG architectures
-  - Computer vision with PyTorch
-
-Building:
-  - Multi-agent AI platforms (Aafiyah)
-  - Local-first LLM tooling (Content Inspiration, Wathiq)
-  - Full-stack applications with Laravel
-
-Exploring:
-  - Multi-Agent Systems & LLM orchestration
-  - Offline / local-inference AI pipelines
-  - Applied computer vision
-
-Open To:
-  - AI / ML Engineer roles
-  - Agentic AI & Multi-Agent Systems opportunities
-  - Software Engineering internships
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:guedriadem@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-guedriadem@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/adem-guedri" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Adem_Guedri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/AdemCE-eng" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-AdemCE--eng-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://x.com/adem_guedri_" target="_blank">
-  <img src="https://img.shields.io/badge/X-adem__guedri__-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*Building at the intersection of agentic AI, multi-agent systems, and full-stack engineering.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a160e,50:c2410c,100:1a160e&height=120&section=footer" width="100%"/>
+<sub>Building intelligent systems, one layer at a time.</sub>
 
 </div>
