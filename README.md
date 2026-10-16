@@ -17,10 +17,6 @@
 </p>
 
 <p>
-  <a href="https://www.ademguedri.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-C2410C?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/adem-guedri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
